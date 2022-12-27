@@ -8,7 +8,7 @@
     }
   ],
   
-  "morex":[
+  "more":[
    {
       "id":1,
       "title":"Ludo King",
@@ -29,7 +29,7 @@
     }
    ],
   
-  "Categoriesx": [
+  "Categories": [
     {
       "name_category": "Beautiful fantasy girls",
       "wallpaper_url": "https://www.teahub.io/photos/full/82-826041_persian-female-warrior-art.jpg"
@@ -39,7 +39,7 @@
       "wallpaper_url": "https://i.pinimg.com/564x/5c/87/49/5c8749548a1ce9601778454927605dbe.jpg"
     }
   ],
-  "Wallpaperx": [
+  "Wallpaper": [
     {
       "id": 1,
       "name_category": "Beautiful fantasy girls",
